@@ -42,6 +42,10 @@ My first milestone was making the robot. I made the car chassis and wired up the
 
 ![Screen Shot 2021-07-16 at 10 57 48 AM](https://user-images.githubusercontent.com/68804388/125990633-b0d11461-2126-4c4b-b513-b3339d3fa8ea.png)
 
+<p>Arm Circuit</p>
+
+![Screen Shot 2021-07-23 at 11 04 43 AM](https://user-images.githubusercontent.com/68804388/126823397-f56c028b-362d-4adf-9a62-1dff0e0a7ae0.png)
+
 
 # Code
 
