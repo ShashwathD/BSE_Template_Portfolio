@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
-I am working on a Gesture-Controlled Robot at Bluestamp. The robot is controlled by a glove on my hand, so when I move it, it goes a certain direction.
+﻿# Gesture Controlled Robot
+I am working on a Gesture Controlled Robot at Bluestamp. The robot is controlled by a glove on my hand, so when I move it, it goes a certain direction.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Shashwath D. | Miller Middle School | Electrical Engineering | Rising 7th Grader
+| Shashwath D. | Miller Middle School | Electrical and Mechanical Engineering | Rising 7th Grader
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
@@ -13,7 +13,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was completing the robot. I synced up the ESPs and added the accelerometer. I created a code to read the accelerometer values and was able to send it to the ESP on the robot to move the robot. I ran into some trouble send values for one ESP to another with and without the accelerometer, but was soon able to get it.
+
+My second milestone was completing the robot. I synced up the ESPs and added the accelerometer. I also made a code to send accelerometer values between two ESPs. I did have trouble with this and I had to constantly rewrite the code for about three days, but I finally got it by modifying a code for sending a humdity sensor's valus between ESPs to send accelerometer values. Finally, I used a portable charger to make a glove for the ESP and accelerometer. The glove now sends accelerometer values to the ESP on the robot and based on the value it moves forwar, backward, right, or left. 
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
@@ -21,7 +22,6 @@ My second milestone was completing the robot. I synced up the ESPs and added the
 
 # First Milestone
   
-
 My first milestone was making the robot. I made the car chassis and wired up the motors. Next, I coded the Arduino and made the blocks of code to move forward, backward, left, right, and to stop. I then replaced the arduino with an ESP because that is what will be receiving the input values from the other ESP in the finished product.  I had some trouble with the motor driver as it was not letting two wires into one output(I am doing a tank drive, so two motors per each side of the motor driver). For one output the screw was not going down. I was able to fix theses problems by using dupont wires which have more grip, so it wouldn't fall out while I was screwing them in and also didn't even need the screw to stay secure. I am hoping to make the glove and sync up the ESPs in the next milestone and hope to finish my modifications by my last milestone.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626453148/video_to_markdown/images/youtube--z22beFnXq0o-c05b58ac6eb4c4700831b2b3070cd403.jpg)]( https://youtu.be/z22beFnXq0o "First Milestone")
