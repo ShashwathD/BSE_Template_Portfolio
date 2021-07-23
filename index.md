@@ -45,7 +45,9 @@ My first milestone was making the robot. I made the car chassis and wired up the
 
 # Code
 
-()``python
+```c++
+
+// Modified from code over here: https://randomnerdtutorials.com/esp-now-two-way-communication-esp32/
 #include <esp_now.h>
 #include <WiFi.h>
 
@@ -185,9 +187,8 @@ void loop() {
   }
   delay(100);
 }
-``()
+```
 
-Modified from code over here: https://randomnerdtutorials.com/esp-now-two-way-communication-esp32/
 
 
 
