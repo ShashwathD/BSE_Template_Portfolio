@@ -3,7 +3,7 @@ I am working on a Gesture Controlled Robot at Bluestamp. The robot is controlled
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Shashwath D. | Miller Middle School | Electrical and Mechanical Engineering | Rising 7th Grader
+| Shashwath D. | Miller Middle School | Electrical and Mechanical Engineering | 7th Grader
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
