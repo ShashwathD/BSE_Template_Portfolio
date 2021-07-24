@@ -22,8 +22,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My second milestone was completing the robot. I synced up the ESPs and added the accelerometer. I also made a code to send accelerometer values between two ESPs. I did have trouble with this and I had to constantly rewrite the code for about three days, but I finally got it by modifying a code for sending a humdity sensor's valus between ESPs to send accelerometer values. Finally, I used a portable charger to make a glove for the ESP and accelerometer. The glove now sends accelerometer values to the ESP on the robot and based on the value it moves forwar, backward, right, or left. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
-
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627075378/video_to_markdown/images/youtube--YWEZAOmJuBU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/YWEZAOmJuBU "Second Milestone")
 
 # First Milestone
   
