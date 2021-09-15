@@ -5,7 +5,7 @@ I am working on a Gesture Controlled Robot at Bluestamp. The robot is controlled
 |:--:|:--:|:--:|:--:|
 | Shashwath D. | Miller Middle School | Electrical and Mechanical Engineering | 7th Grader
 
-![Headstone Image](<img width="1377" alt="Screen Shot 2021-09-14 at 10 48 44 PM" src="https://user-images.githubusercontent.com/68804388/133377765-1ff739ff-331d-4418-83e5-a84cafb1a8e2.png">)
+![Headstone Image](<img width="1384" alt="Screen Shot 2021-09-14 at 10 50 07 PM" src="https://user-images.githubusercontent.com/68804388/133377897-02f20399-6b2f-4019-8782-28f271a695f3.png">)
 
 # Presentation
 
