@@ -5,19 +5,12 @@ I am working on a Gesture Controlled Robot at Bluestamp. The robot is controlled
 |:--:|:--:|:--:|:--:|
 | Shashwath D. | Miller Middle School | Electrical and Mechanical Engineering | 7th Grader
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](<img width="1377" alt="Screen Shot 2021-09-14 at 10 48 44 PM" src="https://user-images.githubusercontent.com/68804388/133377765-1ff739ff-331d-4418-83e5-a84cafb1a8e2.png">)
 
 # Presentation
 
 [![Shashwath D Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1627058272/video_to_markdown/images/youtube--YnS6cLp3XrA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/YnS6cLp3XrA "Shashwath D Demo Night")
   
-  
-# Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
-
-
 # Second Milestone
 
 My second milestone was completing the robot. I synced up the ESPs and added the accelerometer. I also made a code to send accelerometer values between two ESPs. I did have trouble with this and I had to constantly rewrite the code for about three days, but I finally got it by modifying a code for sending a humdity sensor's valus between ESPs to send accelerometer values. Finally, I used a portable charger to make a glove for the ESP and accelerometer. The glove now sends accelerometer values to the ESP on the robot and based on the value it moves forwar, backward, right, or left. 
